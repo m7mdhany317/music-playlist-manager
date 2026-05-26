@@ -1,0 +1,28 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+*.exe
+*.out
+playlist
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+bin/
+
+# Temporary files
+*.tmp
+*.log
